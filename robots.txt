@@ -8,5 +8,6 @@ Disallow:
 # This line has been added to demonstrate the real usage of "git pull" command
 # This line has been added to demonstrate how the local changes are pushed into the remote repository using "git push" command
 # This line has been added to demonstrate the real usage of SSH protocol
+# This line has been added to demonstrate "git pull" - HCL
 
 # some line
